@@ -1,0 +1,14 @@
+@import './reset.css';
+@import './defaults.css';
+@import './themes/dark.scss';
+@import './shortcuts/block.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400;1,500&family=Satisfy&display=swap');
+
+html * { width: 100%; font-family: 'Roboto', sans-serif; font-weight: 300; }
+
+html { background-color: var(--basic-background); }
+
+i { font-style: italic; font-weight: 500; }
+
+* { color: var(--color) }
+

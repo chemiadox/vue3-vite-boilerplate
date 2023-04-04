@@ -1,0 +1,20 @@
+:root {
+    /* paddings and margins */
+    --default-padding: 1rem;
+    --default-margin: 0;
+
+    /* colors */
+    --color-even: #00000004;
+    --color-odd: #00000008;
+
+    /* z-index vars */
+    --nav-z-index: 1000;
+    --footer-z-index: 1000;
+    --modal-z-index: 1100;
+
+    /* font settings */
+    --default-fint-weight: 300;
+
+    /* transitions and animations */
+    --default-duration: 300ms;
+}
